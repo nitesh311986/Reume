@@ -1,2 +1,2 @@
-# Reume
+# Resume
 My Resume 
